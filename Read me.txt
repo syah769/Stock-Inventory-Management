@@ -1,0 +1,4 @@
+need to change
+core.php, logout.php, index1.php
+header('location: http://localhost:80/web/stock/index1.php');	
+
